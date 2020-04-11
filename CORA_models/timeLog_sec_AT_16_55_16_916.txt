@@ -1,0 +1,18 @@
+Iteration 1 
+	 ERAN: 2.461959
+	 CORA: 3.226303
+
+Iteration 2 
+	 ERAN: 2.364324
+	 CORA: 3.403025
+
+Iteration 3 
+	 ERAN: 2.440649
+	 CORA: 3.937307
+
+Iteration 4 
+	 ERAN: 2.415494
+	 CORA: 29.436146
+
+
+Total Time = 50.020340

@@ -1,0 +1,4 @@
+Iteration 1 
+	 ERAN: 0.235910
+	 CORA: 8.452426
+
